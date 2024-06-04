@@ -1,2 +1,6 @@
-# CounterApp
-This is just a basic HTML, CSS and JavaScript based web app which has a counter feature in it
+Counter Web App
+A simple counter web application built using HTML, CSS, and JavaScript.
+
+Features
+Increment and decrement counter values.
+User-friendly interface.
