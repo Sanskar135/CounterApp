@@ -1,5 +1,5 @@
 -> Counter Web App
-A simple counter web application built using HTML, CSS, and JavaScript.
+   A simple counter web application built using HTML, CSS, and JavaScript.
 
 -> Features
 1) Increment and decrement counter values.
