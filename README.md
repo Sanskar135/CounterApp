@@ -1,4 +1,4 @@
-Counter Web App
+#Counter Web App
 A simple counter web application built using HTML, CSS, and JavaScript.
 
 Features
